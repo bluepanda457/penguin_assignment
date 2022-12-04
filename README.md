@@ -1,6 +1,6 @@
 This repository plots a linear regression model between bill length and flipper length using data from the Palmer Penguins dataset.
 
-To run this analysis, run the combine-data.Rmd document.
+To run this analysis, run the penguins_assignment.Rmd document.
 
 
 The raw data is within the 'data_raw' directory and the clean data is within the 'data_clean' directory.
