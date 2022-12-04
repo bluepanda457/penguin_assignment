@@ -88,7 +88,7 @@ write.csv(penguins_clean, "data_clean/penguins_clean")
 
 ### Running a linear regression model between flipper length and bill length
 
-#### (1) Using Pearson's correlation coefficient to test for a linear correlation between bill length and bill depth.
+#### (1) Using Pearson's correlation coefficient to test for a linear correlation between bill length and flipper length.
 
 
 Subsetting the data to remove empty rows and only contain the data needed (flipper length and culmen length):
